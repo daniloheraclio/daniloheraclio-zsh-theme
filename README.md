@@ -4,6 +4,8 @@ _A Robby Russel inspired theme for ZSH_
 
 ![Clean state Example](https://github.com/daniloheraclio/daniloheraclio-zsh-theme/blob/master/clean.png?raw=true)
 
+![Clean state Example](https://github.com/daniloheraclio/daniloheraclio-zsh-theme/blob/master/dirt.png?raw=true)
+
 ## # README
 
 ### Setting up the theme
