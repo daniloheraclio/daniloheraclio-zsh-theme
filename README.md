@@ -43,3 +43,7 @@ Open zsh preferences and create a new profile
 | Cursor color:  | #9C00E5 | #9C00E5    |
 
 ![Clean state Example](https://github.com/daniloheraclio/daniloheraclio-zsh-theme/blob/master/preferences-colours.png?raw=true)
+
+## License
+
+This theme is licensed under the [MIT license](https://opensource.org/licenses/MIT).
